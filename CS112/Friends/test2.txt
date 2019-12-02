@@ -1,0 +1,9 @@
+4
+milos|n
+mira|n
+ivan|n
+danilo|n
+milos|mira
+milos|danilo
+mira|ivan
+danilo|ivan
